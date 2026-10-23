@@ -2,7 +2,7 @@
 
 Welcome to my self-study portfolio dedicated to learning the mathematical foundations of Machine Learning. 
 
-This repository serves as my structured transition into high-dimensional data structures, multivariable optimization, and advanced statistical theory. Every concept here has been derived by hand on a physical sandbox, summarised in my personal knowledge base, and implemented in pure code.
+This repository serves to showcase my structured transition into high-dimensional data structures, multivariable optimization, and advanced statistical theory. Every concept here has been derived by hand on a physical sandbox, summarised in my personal knowledge base, and implemented in pure code.
 
 ## 🗺️ Core Methodology & Philosophy
 Rather than relying on high-level black-box frameworks (like PyTorch or Scikit-Learn), my goal is to bridge the gap between abstract equations and execution. 
