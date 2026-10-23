@@ -28,17 +28,17 @@ Rather than relying on high-level black-box frameworks (like PyTorch or Scikit-L
 *   **The Math:** Empirical covariance matrices, variance maximization, and Eigendecomposition (Σ v = λ v).
 *   **The Code:** Center the data, calculate the matrix transpose dot product, extract eigenvalues via `np.linalg.eig`, and project data onto principal components.
 *   **Dataset:** MNIST Handwritten Digits.
-*   👉 **[Explore the PCA Project Notebook](./notebooks/pca_from_scratch.ipynb)**
+*   👉 **[PCA Project Notebook](./notebooks/pca_from_scratch.ipynb)**
 
 ### 2. The Engine of Optimization (Backpropagation Calculus)
 *   **The Math:** Application of the multivariable chain rule to flow error derivatives backwards through a computational graph.
-*   **The Code:** Vectorized matrix updates for a Multi-Layer Perceptron (MLP) using raw gradient descent.
-*   👉 **[Explore the Calculus & Backprop Notebook](./notebooks/backprop_calculus.ipynb)**
+*   **The Code:** Vectorised matrix updates for a Multi-Layer Perceptron (MLP) using raw gradient descent.
+*   👉 **[Calculus & Backprop Notebook](./notebooks/backprop_calculus.ipynb)**
 
 ### 3. Probabilistic Learning (Maximum Likelihood Estimation)
 *   **The Math:** Deriving Binary Cross-Entropy loss by taking the log-likelihood of a Bernoulli distribution.
-*   **The Code:** Optimization of a Logistic Regression boundary line.
-*   👉 **[Explore the Probability & MLE Notebook](./notebooks/mle_logistic_regression.ipynb)**
+*   **The Code:** Optimisation of a Logistic Regression boundary line.
+*   👉 **[Probability & MLE Notebook](./notebooks/mle_logistic_regression.ipynb)**
 
 ---
 
@@ -46,5 +46,3 @@ Rather than relying on high-level black-box frameworks (like PyTorch or Scikit-L
 *   **MIT OCW 18.06** – Linear Algebra (Prof. Gilbert Strang)
 *   **Stanford University** – Introduction to Statistical Learning (ISLR)
 
----
-*“An intuitive understanding of a mathematical theory is complete only when you can write the code that executes its equations.”*
